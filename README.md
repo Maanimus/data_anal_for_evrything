@@ -1,5 +1,5 @@
 # market_analysis_bank 
-This project is studing for data sciecnce. 
+This project is studying for data sciecnce. 
 The data get from UCI MLR. 
 
 고객 데이터 분석
